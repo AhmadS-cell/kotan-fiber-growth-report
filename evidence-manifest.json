@@ -1,0 +1,639 @@
+[
+  {
+    "id": "E01",
+    "kind": "screenshot",
+    "file": "assets/E01.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T11:17:24.677304+00:00",
+    "caption": "الرئيسية قبل النزول على الموبايل",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E02",
+    "kind": "screenshot",
+    "file": "assets/E02.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T11:17:38.432Z",
+    "caption": "الرئيسية: التذييل على الموبايل",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E03",
+    "kind": "screenshot",
+    "file": "assets/E03.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T11:17:51.367Z",
+    "caption": "القائمة بعد فتحها على الموبايل",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      390,
+      844
+    ]
+  },
+  {
+    "id": "E04",
+    "kind": "screenshot",
+    "file": "assets/E04.jpg",
+    "url": "https://kotanfiber.store/search?category=85144",
+    "captured_at": "2026-10-19T11:18:15.327Z",
+    "caption": "فئة السيتات على الموبايل",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E05",
+    "kind": "screenshot",
+    "file": "assets/E05.jpg",
+    "url": "https://kotanfiber.store/search?category=85144",
+    "captured_at": "2026-10-19T11:18:21.732Z",
+    "caption": "الفلترة المتقدمة على الموبايل",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      390,
+      844
+    ]
+  },
+  {
+    "id": "E06",
+    "kind": "screenshot",
+    "file": "assets/E06.jpg",
+    "url": "https://kotanfiber.store/search?category=85144&name=%D9%85%D9%86%D8%B4%D9%81%D8%A9",
+    "captured_at": "2026-10-19T11:18:41.592Z",
+    "caption": "اقتراحات البحث عن منشفة",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E07",
+    "kind": "screenshot",
+    "file": "assets/E07.jpg",
+    "url": "https://kotanfiber.store/products/1000006221",
+    "captured_at": "2026-10-19T11:18:49.087Z",
+    "caption": "صفحة المنتج قبل النزول",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E08",
+    "kind": "screenshot",
+    "file": "assets/E08.jpg",
+    "url": "https://kotanfiber.store/products/1000006221",
+    "captured_at": "2026-10-19T11:18:55.420Z",
+    "caption": "المقاسات وأزرار الشراء على الموبايل",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E09",
+    "kind": "screenshot",
+    "file": "assets/E09.jpg",
+    "url": "https://kotanfiber.store/cart",
+    "captured_at": "2026-10-19T11:19:17.705Z",
+    "caption": "السلة: المنتج والإجمالي قبل إدخال البيانات",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E10",
+    "kind": "screenshot",
+    "file": "assets/E10.jpg",
+    "url": "https://kotanfiber.store/cart/checkout",
+    "captured_at": "2026-10-19T11:19:35.540Z",
+    "caption": "بداية إتمام الطلب والحقول المطلوبة",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E11",
+    "kind": "screenshot",
+    "file": "assets/E11.jpg",
+    "url": "https://kotanfiber.store/cart/checkout",
+    "captured_at": "2026-10-19T11:20:10.385Z",
+    "caption": "ملخص الطلب النهائي: 80 ألف + 5 آلاف توصيل لبغداد",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E12",
+    "kind": "screenshot",
+    "file": "assets/E12.jpg",
+    "url": "https://kotanfiber.store/cart/checkout",
+    "captured_at": "2026-10-19T11:20:14.637Z",
+    "caption": "جدول ملخص الطلب يتطلب تمريرًا أفقيًا على الموبايل",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E13",
+    "kind": "screenshot",
+    "file": "assets/E13.jpg",
+    "url": "https://kotanfiber.store/cart/checkout",
+    "captured_at": "2026-10-19T11:20:19.840Z",
+    "caption": "حقول إتمام الطلب على الديسكتوب",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1425,
+      891
+    ]
+  },
+  {
+    "id": "E14",
+    "kind": "screenshot",
+    "file": "assets/E14.jpg",
+    "url": "https://kotanfiber.store/products/1000006221",
+    "captured_at": "2026-10-19T11:20:36.966Z",
+    "caption": "المنتج والمقاسات على الديسكتوب 1440×900",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1425,
+      891
+    ]
+  },
+  {
+    "id": "E15",
+    "kind": "screenshot",
+    "file": "assets/E15.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T11:17:19.261530+00:00",
+    "caption": "الرئيسية على الديسكتوب قبل تغيير العرض · 1896×861",
+    "accepted": true,
+    "viewport": [
+      1896,
+      861
+    ],
+    "pixels": [
+      1881,
+      854
+    ]
+  },
+  {
+    "id": "E16",
+    "kind": "screenshot",
+    "file": "assets/E16.jpg",
+    "url": "https://www.google.com/search?q=KotanFiber&hl=ar&gl=iq&pws=0",
+    "captured_at": "2026-10-19T12:03:27.409Z",
+    "caption": "Google: KotanFiber بإعداد العراق · قص الجزء غير المتعلق بالنتائج",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1250,
+      900
+    ]
+  },
+  {
+    "id": "E17",
+    "kind": "screenshot",
+    "file": "assets/E17.jpg",
+    "url": "https://www.google.com/search?q=%D9%83%D9%88%D8%AA%D8%A7%D9%86%20%D9%81%D8%A7%D9%8A%D8%A8%D8%B1&hl=ar&gl=iq&pws=0",
+    "captured_at": "2026-10-19T12:03:39.925Z",
+    "caption": "Google: كوتان فايبر بإعداد العراق · قص الجزء غير المتعلق بالنتائج",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1250,
+      900
+    ]
+  },
+  {
+    "id": "E18",
+    "kind": "screenshot",
+    "file": "assets/E18.jpg",
+    "url": "https://www.google.com/search?q=%D8%B1%D9%88%D8%A8%20%D8%AD%D9%85%D8%A7%D9%85%20%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D9%81%D8%A7%D9%8A%D8%A8%D8%B1%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82&hl=ar&gl=iq&pws=0",
+    "captured_at": "2026-10-19T12:04:33.037Z",
+    "caption": "Google: روب حمام مايكروفايبر العراق · قص الجزء غير المتعلق بالنتائج",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1250,
+      900
+    ]
+  },
+  {
+    "id": "E19",
+    "kind": "screenshot",
+    "file": "assets/E19.jpg",
+    "url": "https://kotanfiber.store/robots.txt",
+    "captured_at": "2026-10-19T11:21:42.671Z",
+    "caption": "ملف robots.txt كما ظهر في المتصفح",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1440,
+      900
+    ]
+  },
+  {
+    "id": "E20",
+    "kind": "screenshot",
+    "file": "assets/E20.jpg",
+    "url": "https://www.google.com/search?q=%D9%85%D9%86%D8%A7%D8%B4%D9%81%20%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D9%81%D8%A7%D9%8A%D8%A8%D8%B1%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82&hl=ar&gl=iq&pws=0",
+    "captured_at": "2026-10-19T12:04:55.002Z",
+    "caption": "Google: مناشف مايكروفايبر العراق · قص الجزء غير المتعلق بالنتائج",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1250,
+      900
+    ]
+  },
+  {
+    "id": "E21",
+    "kind": "screenshot",
+    "file": "assets/E21.jpg",
+    "url": "https://kotanfiber.store/sitemap.xml",
+    "captured_at": "2026-10-19T11:21:50.916Z",
+    "caption": "نتيجة فتح sitemap.xml",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1440,
+      900
+    ]
+  },
+  {
+    "id": "E22",
+    "kind": "screenshot",
+    "file": "assets/E22.jpg",
+    "url": "https://kotanfiber.rozenama.com/",
+    "captured_at": "2026-10-19T11:22:02.206Z",
+    "caption": "النطاق البديل يعرض المتجر دون تحويل ظاهر",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1425,
+      891
+    ]
+  },
+  {
+    "id": "E23",
+    "kind": "screenshot",
+    "file": "assets/E23.jpg",
+    "url": "https://kotanfiber.store/products/13857",
+    "captured_at": "2026-10-19T11:22:12.975Z",
+    "caption": "صفحة المناشف وخيارات المقاس",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1425,
+      891
+    ]
+  },
+  {
+    "id": "E24",
+    "kind": "screenshot",
+    "file": "assets/E24.jpg",
+    "url": "https://kotanfiber.store/products/13857",
+    "captured_at": "2026-10-19T11:22:19.506Z",
+    "caption": "واجهة المنتج بعد اختيار كوردي",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1425,
+      891
+    ]
+  },
+  {
+    "id": "E25",
+    "kind": "screenshot",
+    "file": "assets/E25.jpg",
+    "url": "https://pagespeed.web.dev/analysis/https-kotanfiber-store/muj8tnk76o?form_factor=mobile",
+    "captured_at": "2026-10-19T11:22:59.043Z",
+    "caption": "PageSpeed: قياس الرئيسية بمحاكاة موبايل و4G بطيء",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1425,
+      891
+    ]
+  },
+  {
+    "id": "E26",
+    "kind": "screenshot",
+    "file": "assets/E26.jpg",
+    "url": "https://pagespeed.web.dev/analysis/https-kotanfiber-store/muj8tnk76o?form_factor=desktop",
+    "captured_at": "2026-10-19T11:23:09.919Z",
+    "caption": "PageSpeed: قياس الديسكتوب",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1425,
+      891
+    ]
+  },
+  {
+    "id": "E27",
+    "kind": "screenshot",
+    "file": "assets/E27.jpg",
+    "url": "https://pagespeed.web.dev/analysis/https-kotanfiber-store/muj8tnk76o?form_factor=desktop",
+    "captured_at": "2026-10-19T11:23:10.022Z",
+    "caption": "مقاييس أداء الديسكتوب",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1425,
+      891
+    ]
+  },
+  {
+    "id": "E28",
+    "kind": "screenshot",
+    "file": "assets/E28.jpg",
+    "url": "https://pagespeed.web.dev/analysis/https-kotanfiber-store/muj8tnk76o?form_factor=mobile",
+    "captured_at": "2026-10-19T11:23:10.378Z",
+    "caption": "مقاييس أداء الموبايل",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1425,
+      891
+    ]
+  },
+  {
+    "id": "E29",
+    "kind": "screenshot",
+    "file": "assets/E29.jpg",
+    "url": "https://kotanfiber.store/products/1000006221",
+    "captured_at": "2026-10-19T11:23:54.681Z",
+    "caption": "خيارات القياس مقصوصة على عرض 360 بكسل",
+    "accepted": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "pixels": [
+      345,
+      767
+    ]
+  },
+  {
+    "id": "M01",
+    "kind": "metadata",
+    "file": "assets/M01.json",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19",
+    "caption": "الرئيسية: العناوين والروابط وأوصاف الصور",
+    "accepted": true
+  },
+  {
+    "id": "M02",
+    "kind": "metadata",
+    "file": "assets/M02.json",
+    "url": "https://kotanfiber.store/search?category=85144",
+    "captured_at": "2026-10-19",
+    "caption": "فئة السيتات: بيانات SEO",
+    "accepted": true
+  },
+  {
+    "id": "M03",
+    "kind": "metadata",
+    "file": "assets/M03.json",
+    "url": "https://kotanfiber.store/products/1000006221",
+    "captured_at": "2026-10-19",
+    "caption": "سيت الروب: الوصف والبيانات المنظمة",
+    "accepted": true
+  },
+  {
+    "id": "M04",
+    "kind": "metadata",
+    "file": "assets/M04.json",
+    "url": "https://kotanfiber.store/cart/checkout",
+    "captured_at": "2026-10-19",
+    "caption": "إتمام الطلب: ربط أسماء الحقول وجدول الملخص",
+    "accepted": true
+  },
+  {
+    "id": "M05",
+    "kind": "metadata",
+    "file": "assets/M05.json",
+    "url": "https://kotanfiber.rozenama.com/",
+    "captured_at": "2026-10-19",
+    "caption": "النطاق البديل: العنوان والنسخة الأساسية",
+    "accepted": true
+  },
+  {
+    "id": "M06",
+    "kind": "metadata",
+    "file": "assets/M06.json",
+    "url": "https://kotanfiber.store/products/13857",
+    "captured_at": "2026-10-19",
+    "caption": "المناشف: المحتوى وبيانات SEO",
+    "accepted": true
+  },
+  {
+    "id": "M07",
+    "kind": "metadata",
+    "file": "assets/M07.json",
+    "url": "https://kotanfiber.store/products/13857",
+    "captured_at": "2026-10-19",
+    "caption": "المنتج بعد اختيار الكردية",
+    "accepted": true
+  },
+  {
+    "id": "M08",
+    "kind": "metadata",
+    "file": "assets/M08.json",
+    "url": "https://kotanfiber.store/products/1000006221",
+    "captured_at": "2026-10-19",
+    "caption": "قياس مواضع خيارات القياس على عرض 360",
+    "accepted": true
+  },
+  {
+    "id": "M09",
+    "kind": "metadata",
+    "file": "assets/M09.json",
+    "url": "https://pagespeed.web.dev/analysis/https-kotanfiber-store/muj8tnk76o?form_factor=mobile",
+    "captured_at": "2026-10-19",
+    "caption": "PageSpeed: نتائج اختبار الموبايل",
+    "accepted": true
+  },
+  {
+    "id": "M10",
+    "kind": "metadata",
+    "file": "assets/M10.json",
+    "url": "https://pagespeed.web.dev/analysis/https-kotanfiber-store/muj8tnk76o?form_factor=desktop",
+    "captured_at": "2026-10-19",
+    "caption": "PageSpeed: نتائج اختبار الديسكتوب",
+    "accepted": true
+  },
+  {
+    "id": "M11",
+    "kind": "metadata",
+    "file": "assets/M11.json",
+    "url": "https://www.google.com/search?q=%D9%83%D9%88%D8%AA%D8%A7%D9%86%20%D9%81%D8%A7%D9%8A%D8%A8%D8%B1&hl=ar&gl=iq&pws=0",
+    "captured_at": "2026-10-19",
+    "caption": "روابط النتائج المرصودة للاسم العربي",
+    "accepted": true
+  },
+  {
+    "id": "M12",
+    "kind": "metadata",
+    "file": "assets/M12.json",
+    "url": "https://www.google.com/search?q=%D8%B1%D9%88%D8%A8%20%D8%AD%D9%85%D8%A7%D9%85%20%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D9%81%D8%A7%D9%8A%D8%A8%D8%B1%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82&hl=ar&gl=iq&pws=0",
+    "captured_at": "2026-10-19",
+    "caption": "روابط النتائج المرصودة لعبارة الأرواب",
+    "accepted": true
+  },
+  {
+    "id": "M13",
+    "kind": "metadata",
+    "file": "assets/M13.json",
+    "url": "https://www.google.com/search?q=%D9%85%D9%86%D8%A7%D8%B4%D9%81%20%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D9%81%D8%A7%D9%8A%D8%A8%D8%B1%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82&hl=ar&gl=iq&pws=0",
+    "captured_at": "2026-10-19",
+    "caption": "روابط النتائج المرصودة لعبارة المناشف",
+    "accepted": true
+  },
+  {
+    "id": "M14",
+    "kind": "metadata",
+    "file": "assets/M14.json",
+    "url": "https://kotanfiber.store/robots.txt",
+    "captured_at": "2026-10-19",
+    "caption": "robots.txt يسمح بالزحف",
+    "accepted": true
+  },
+  {
+    "id": "M15",
+    "kind": "metadata",
+    "file": "assets/M15.json",
+    "url": "https://kotanfiber.store/sitemap.xml",
+    "captured_at": "2026-10-19",
+    "caption": "sitemap.xml يعرض صفحة غير موجودة",
+    "accepted": true
+  },
+  {
+    "id": "M16",
+    "kind": "metadata",
+    "file": "assets/M16.txt",
+    "url": "https://pagespeed.web.dev/analysis/https-kotanfiber-store/muj8tnk76o?form_factor=mobile",
+    "captured_at": "2026-10-19",
+    "caption": "تشخيص PageSpeed لتحرّك المحتوى والخطوط",
+    "accepted": true
+  }
+]
