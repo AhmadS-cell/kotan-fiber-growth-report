@@ -635,5 +635,185 @@
     "captured_at": "2026-10-19",
     "caption": "تشخيص PageSpeed لتحرّك المحتوى والخطوط",
     "accepted": true
+  },
+  {
+    "id": "E30",
+    "kind": "screenshot",
+    "file": "assets/E30.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T13:50:43.954496+00:00",
+    "caption": "الرئيسية عند 390: كتالوج مباشر وآخر تبويب مقصوص",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E31",
+    "kind": "screenshot",
+    "file": "assets/E31.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T13:49:06.293837+00:00",
+    "caption": "قائمة الموبايل مفتوحة: الفئات متاحة والإغلاق في الأعلى",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      390,
+      844
+    ]
+  },
+  {
+    "id": "E32",
+    "kind": "screenshot",
+    "file": "assets/E32.jpg",
+    "url": "https://kotanfiber.store/search?category=85142",
+    "captured_at": "2026-10-19T13:49:35.838551+00:00",
+    "caption": "الوصول إلى المناشف من القائمة: المسار يسمي الصفحة البحث",
+    "accepted": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "pixels": [
+      375,
+      812
+    ]
+  },
+  {
+    "id": "E33",
+    "kind": "screenshot",
+    "file": "assets/E33.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T13:49:45.994859+00:00",
+    "caption": "الرئيسية عند 430: تظهر الفئات الخمس كاملة",
+    "accepted": true,
+    "viewport": [
+      430,
+      932
+    ],
+    "pixels": [
+      415,
+      899
+    ]
+  },
+  {
+    "id": "E34",
+    "kind": "screenshot",
+    "file": "assets/E34.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T13:49:46.199960+00:00",
+    "caption": "الرئيسية عند 768: زر الفئات وشريط الأقسام موجودان",
+    "accepted": true,
+    "viewport": [
+      768,
+      1024
+    ],
+    "pixels": [
+      753,
+      1004
+    ]
+  },
+  {
+    "id": "E35",
+    "kind": "screenshot",
+    "file": "assets/E35.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T13:49:46.291179+00:00",
+    "caption": "الرئيسية عند 1024: التنقل ظاهر والصفحة تبدأ بالسيتات",
+    "accepted": true,
+    "viewport": [
+      1024,
+      900
+    ],
+    "pixels": [
+      1009,
+      887
+    ]
+  },
+  {
+    "id": "E36",
+    "kind": "screenshot",
+    "file": "assets/E36.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T13:49:46.415714+00:00",
+    "caption": "الرئيسية عند 1440: كتالوج دون مقدمة للبراند",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1425,
+      891
+    ]
+  },
+  {
+    "id": "E37",
+    "kind": "screenshot",
+    "file": "assets/E37.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T13:50:04.104719+00:00",
+    "caption": "قائمة الديسكتوب: لون التحديد البنفسجي والمساحة الواسعة",
+    "accepted": true,
+    "viewport": [
+      1440,
+      900
+    ],
+    "pixels": [
+      1440,
+      900
+    ]
+  },
+  {
+    "id": "E38",
+    "kind": "screenshot",
+    "file": "assets/E38.jpg",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19T13:50:29.088206+00:00",
+    "caption": "الرئيسية عند 360: تبويب المناشف خارج المشهد الأول",
+    "accepted": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "pixels": [
+      345,
+      767
+    ]
+  },
+  {
+    "id": "M17",
+    "kind": "metadata",
+    "file": "assets/M17.json",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19",
+    "caption": "إعادة اختبار القائمة والأحجام ونتائج التنقل",
+    "accepted": true
+  },
+  {
+    "id": "M18",
+    "kind": "metadata",
+    "file": "assets/M18.json",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19",
+    "caption": "قيم CSS الفعلية لألوان النصوص والأسعار والأزرار",
+    "accepted": true
+  },
+  {
+    "id": "M19",
+    "kind": "metadata",
+    "file": "assets/M19.json",
+    "url": "https://kotanfiber.store/",
+    "captured_at": "2026-10-19",
+    "caption": "مواضع الفئات وأزرار الرأس عند نقاط التحول",
+    "accepted": true
   }
 ]

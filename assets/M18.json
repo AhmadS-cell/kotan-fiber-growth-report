@@ -1,0 +1,386 @@
+[
+  {
+    "items": [
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "16px",
+        "tag": "A",
+        "text": "سيتات",
+        "weight": "500"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "16px",
+        "tag": "A",
+        "text": "ارواب",
+        "weight": "500"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "16px",
+        "tag": "A",
+        "text": "اطفال",
+        "weight": "500"
+      }
+    ],
+    "selector": "header nav a"
+  },
+  {
+    "items": [
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "text-lg font-bold md:text-xl",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "20px",
+        "tag": "H2",
+        "text": "سيتات",
+        "weight": "700"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "mb-4 text-lg font-bold md:text-xl",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "20px",
+        "tag": "H2",
+        "text": "أحدث المنتجات",
+        "weight": "700"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "mb-4 text-lg font-bold md:text-xl",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "20px",
+        "tag": "H2",
+        "text": "عروض مؤقتة",
+        "weight": "700"
+      }
+    ],
+    "selector": "main h2"
+  },
+  {
+    "items": [
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "view-all text-primary text-xs font-medium hover:underline md:text-sm",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "14.4px",
+        "tag": "A",
+        "text": "عرض الكل",
+        "weight": "500"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgb(255, 255, 255)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "flex h-full w-full flex-col",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "14.4px",
+        "tag": "A",
+        "text": "سيت روب 3 قطع - وردي سادة\nسيتات\n75,000 د.ع\n65,000 د.ع",
+        "weight": "500"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgb(255, 255, 255)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "flex h-full w-full flex-col",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "14.4px",
+        "tag": "A",
+        "text": "سيت روب 3 قطع - ازرق\nسيتات\nخصم مؤقت\n75,000 د.ع\n65,000 د.ع",
+        "weight": "500"
+      }
+    ],
+    "selector": "main a"
+  },
+  {
+    "items": [
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgb(2, 39, 37)",
+        "cls": "relative overflow-hidden inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ease-in-out disabled:pointer-events-none disabled:opacity-50 outline-none cursor-pointer [&_svg]:pointer-events-none [&_svg:not([class*=\"size-\"])]:size-4 [&_svg]:shrink-0 shrink-0 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-primary text-primary-foreground hover:bg-primary/90 has-[>svg]:px-3 transition-transform duration-100 -mt-1 p-3",
+        "color": "oklch(0.985 0 0)",
+        "fontSize": "14.4px",
+        "tag": "BUTTON",
+        "text": "",
+        "weight": "500"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgb(2, 39, 37)",
+        "cls": "relative overflow-hidden inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ease-in-out disabled:pointer-events-none disabled:opacity-50 outline-none cursor-pointer [&_svg]:pointer-events-none [&_svg:not([class*=\"size-\"])]:size-4 [&_svg]:shrink-0 shrink-0 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-primary text-primary-foreground hover:bg-primary/90 has-[>svg]:px-3 transition-transform duration-100 -mt-1 p-3",
+        "color": "oklch(0.985 0 0)",
+        "fontSize": "14.4px",
+        "tag": "BUTTON",
+        "text": "",
+        "weight": "500"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgb(2, 39, 37)",
+        "cls": "relative overflow-hidden inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ease-in-out disabled:pointer-events-none disabled:opacity-50 outline-none cursor-pointer [&_svg]:pointer-events-none [&_svg:not([class*=\"size-\"])]:size-4 [&_svg]:shrink-0 shrink-0 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-primary text-primary-foreground hover:bg-primary/90 has-[>svg]:px-3 transition-transform duration-100 -mt-1 p-3",
+        "color": "oklch(0.985 0 0)",
+        "fontSize": "14.4px",
+        "tag": "BUTTON",
+        "text": "",
+        "weight": "500"
+      }
+    ],
+    "selector": "main button"
+  },
+  {
+    "items": [],
+    "selector": "main s"
+  },
+  {
+    "items": [],
+    "selector": "main del"
+  },
+  {
+    "items": [
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "text-destructive/50 text-[0.9em] line-through",
+        "color": "oklab(0.577 0.217662 0.112464 / 0.5)",
+        "fontSize": "14.4px",
+        "tag": "DIV",
+        "text": "75,000 د.ع",
+        "weight": "700"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "text-destructive/50 text-[0.9em] line-through",
+        "color": "oklab(0.577 0.217662 0.112464 / 0.5)",
+        "fontSize": "14.4px",
+        "tag": "DIV",
+        "text": "75,000 د.ع",
+        "weight": "700"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgba(0, 0, 0, 0)",
+        "cls": "text-destructive/50 text-[0.9em] line-through",
+        "color": "oklab(0.577 0.217662 0.112464 / 0.5)",
+        "fontSize": "14.4px",
+        "tag": "DIV",
+        "text": "75,000 د.ع",
+        "weight": "700"
+      }
+    ],
+    "selector": "main .line-through"
+  },
+  {
+    "items": [
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgb(255, 255, 255)",
+        "cls": "relative overflow-hidden inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ease-in-out disabled:pointer-events-none disabled:opacity-50 outline-none [&_svg]:pointer-events-none [&_svg:not([class*=\"size-\"])]:size-4 [&_svg]:shrink-0 shrink-0 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-card text-card-foreground hover:bg-card hover:text-card-foreground cursor-pointer shadow-xs hover:shadow-md transition-transform duration-100 group h-full flex w-full items-center justify-center gap-2",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "14.4px",
+        "tag": "DIV",
+        "text": "سيت روب 3 قطع - وردي سادة\nسيتات\n75,000 د.ع\n65,000 د.ع",
+        "weight": "500"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgb(255, 255, 255)",
+        "cls": "relative overflow-hidden inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ease-in-out disabled:pointer-events-none disabled:opacity-50 outline-none [&_svg]:pointer-events-none [&_svg:not([class*=\"size-\"])]:size-4 [&_svg]:shrink-0 shrink-0 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-card text-card-foreground hover:bg-card hover:text-card-foreground cursor-pointer shadow-xs hover:shadow-md transition-transform duration-100 group h-full flex w-full items-center justify-center gap-2",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "14.4px",
+        "tag": "DIV",
+        "text": "سيت روب 3 قطع - ازرق\nسيتات\nخصم مؤقت\n75,000 د.ع\n65,000 د.ع",
+        "weight": "500"
+      },
+      {
+        "ancestors": [
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(2, 39, 37)"
+          }
+        ],
+        "bg": "rgb(255, 255, 255)",
+        "cls": "relative overflow-hidden inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ease-in-out disabled:pointer-events-none disabled:opacity-50 outline-none [&_svg]:pointer-events-none [&_svg:not([class*=\"size-\"])]:size-4 [&_svg]:shrink-0 shrink-0 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-card text-card-foreground hover:bg-card hover:text-card-foreground cursor-pointer shadow-xs hover:shadow-md transition-transform duration-100 group h-full flex w-full items-center justify-center gap-2",
+        "color": "rgb(2, 39, 37)",
+        "fontSize": "14.4px",
+        "tag": "DIV",
+        "text": "سيت روب 3 قطع - اوف وايت\nسيتات\n75,000 د.ع\n65,000 د.ع",
+        "weight": "500"
+      }
+    ],
+    "selector": "main .text-card-foreground"
+  },
+  {
+    "items": [],
+    "selector": "main .bg-muted"
+  }
+]

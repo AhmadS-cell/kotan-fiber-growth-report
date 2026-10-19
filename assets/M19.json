@@ -1,0 +1,310 @@
+[
+  {
+    "id": "34-home-430-review",
+    "buttons": [
+      {
+        "expanded": null,
+        "label": "خيارات البحث",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 5,
+          "y": 98
+        },
+        "text": ""
+      },
+      {
+        "expanded": "false",
+        "label": "سلة التسوق",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 43,
+          "y": 28
+        },
+        "text": ""
+      },
+      {
+        "expanded": null,
+        "label": "القائمة",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 1,
+          "y": 28
+        },
+        "text": ""
+      }
+    ],
+    "h1": 0,
+    "links": [
+      {
+        "h": 24,
+        "text": "سيتات",
+        "w": 41.265625,
+        "x": 341.734375
+      },
+      {
+        "h": 24,
+        "text": "ارواب",
+        "w": 33.21875,
+        "x": 272.515625
+      },
+      {
+        "h": 24,
+        "text": "اطفال",
+        "w": 38.421875,
+        "x": 198.09375
+      },
+      {
+        "h": 24,
+        "text": "راحة وعناية",
+        "w": 65.421875,
+        "x": 96.671875
+      },
+      {
+        "h": 24,
+        "text": "مناشف",
+        "w": 45.984375,
+        "x": 14.6875
+      }
+    ],
+    "navContainer": "<div style=\"min-width: 100%; display: table;\"><nav aria-label=\"Categories\" class=\"flex w-max gap-1 pr-2 pb-0 pl-6\"><div class=\"relative overflow-hidden justify-center gap-2 whitespace-nowrap font-medium ease-in-out disabled:pointer-events-none disabled:opacity-50 outline-none [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&quot;size-&quot;])]:size-4 [&amp;_svg]:shrink-0 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive text-card-foreground hover:bg-card cursor-pointer duration-100 hover:text-primary mx-2 flex !w-auto shrink-0 items-center rounded-none rounded-t-md bg-transparent px-2 py-2 text-base shadow-none transition-colors hover:shadow-none flex w-",
+    "url": "https://kotanfiber.store/",
+    "viewport": [
+      430,
+      932
+    ]
+  },
+  {
+    "id": "35-home-768-review",
+    "buttons": [
+      {
+        "expanded": null,
+        "label": "خيارات البحث",
+        "rect": {
+          "h": 32,
+          "w": 32,
+          "x": 197.96875,
+          "y": 32
+        },
+        "text": ""
+      },
+      {
+        "expanded": "false",
+        "label": "سلة التسوق",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 121.96875,
+          "y": 28
+        },
+        "text": ""
+      },
+      {
+        "expanded": "false",
+        "label": null,
+        "rect": {
+          "h": 40,
+          "w": 104.96875,
+          "x": 9,
+          "y": 28
+        },
+        "text": "الفئات"
+      }
+    ],
+    "h1": 0,
+    "links": [
+      {
+        "h": 24,
+        "text": "سيتات",
+        "w": 45.84375,
+        "x": 675.15625
+      },
+      {
+        "h": 24,
+        "text": "ارواب",
+        "w": 36.90625,
+        "x": 602.25
+      },
+      {
+        "h": 24,
+        "text": "اطفال",
+        "w": 42.703125,
+        "x": 523.546875
+      },
+      {
+        "h": 24,
+        "text": "راحة وعناية",
+        "w": 72.703125,
+        "x": 414.84375
+      },
+      {
+        "h": 24,
+        "text": "مناشف",
+        "w": 51.09375,
+        "x": 327.75
+      }
+    ],
+    "navContainer": "<div style=\"min-width: 100%; display: table;\"><nav aria-label=\"Categories\" class=\"flex w-max gap-1 pr-2 pb-0 pl-6\"><div class=\"relative overflow-hidden justify-center gap-2 whitespace-nowrap font-medium ease-in-out disabled:pointer-events-none disabled:opacity-50 outline-none [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&quot;size-&quot;])]:size-4 [&amp;_svg]:shrink-0 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive text-card-foreground hover:bg-card cursor-pointer duration-100 hover:text-primary mx-2 flex !w-auto shrink-0 items-center rounded-none rounded-t-md bg-transparent px-2 py-2 text-base shadow-none transition-colors hover:shadow-none flex w-",
+    "url": "https://kotanfiber.store/",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "id": "36-home-1024-review",
+    "buttons": [
+      {
+        "expanded": null,
+        "label": "خيارات البحث",
+        "rect": {
+          "h": 32,
+          "w": 32,
+          "x": 205.96875,
+          "y": 32
+        },
+        "text": ""
+      },
+      {
+        "expanded": "false",
+        "label": "سلة التسوق",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 129.96875,
+          "y": 28
+        },
+        "text": ""
+      },
+      {
+        "expanded": "false",
+        "label": null,
+        "rect": {
+          "h": 40,
+          "w": 104.96875,
+          "x": 17,
+          "y": 28
+        },
+        "text": "الفئات"
+      }
+    ],
+    "h1": 0,
+    "links": [
+      {
+        "h": 24,
+        "text": "سيتات",
+        "w": 45.84375,
+        "x": 931.15625
+      },
+      {
+        "h": 24,
+        "text": "ارواب",
+        "w": 36.90625,
+        "x": 858.25
+      },
+      {
+        "h": 24,
+        "text": "اطفال",
+        "w": 42.703125,
+        "x": 779.546875
+      },
+      {
+        "h": 24,
+        "text": "راحة وعناية",
+        "w": 72.703125,
+        "x": 670.84375
+      },
+      {
+        "h": 24,
+        "text": "مناشف",
+        "w": 51.09375,
+        "x": 583.75
+      }
+    ],
+    "navContainer": "<div style=\"min-width: 100%; display: table;\"><nav aria-label=\"Categories\" class=\"flex w-max gap-1 pr-2 pb-0 pl-6\"><div class=\"relative overflow-hidden justify-center gap-2 whitespace-nowrap font-medium ease-in-out disabled:pointer-events-none disabled:opacity-50 outline-none [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&quot;size-&quot;])]:size-4 [&amp;_svg]:shrink-0 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive text-card-foreground hover:bg-card cursor-pointer duration-100 hover:text-primary mx-2 flex !w-auto shrink-0 items-center rounded-none rounded-t-md bg-transparent px-2 py-2 text-base shadow-none transition-colors hover:shadow-none flex w-",
+    "url": "https://kotanfiber.store/",
+    "viewport": [
+      1024,
+      900
+    ]
+  },
+  {
+    "id": "37-home-1440-review",
+    "buttons": [
+      {
+        "expanded": null,
+        "label": "خيارات البحث",
+        "rect": {
+          "h": 32,
+          "w": 32,
+          "x": 376.125,
+          "y": 32
+        },
+        "text": ""
+      },
+      {
+        "expanded": "false",
+        "label": "سلة التسوق",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 209.96875,
+          "y": 28
+        },
+        "text": ""
+      },
+      {
+        "expanded": "false",
+        "label": null,
+        "rect": {
+          "h": 40,
+          "w": 104.96875,
+          "x": 97,
+          "y": 28
+        },
+        "text": "الفئات"
+      }
+    ],
+    "h1": 0,
+    "links": [
+      {
+        "h": 24,
+        "text": "سيتات",
+        "w": 45.84375,
+        "x": 1347.15625
+      },
+      {
+        "h": 24,
+        "text": "ارواب",
+        "w": 36.90625,
+        "x": 1274.25
+      },
+      {
+        "h": 24,
+        "text": "اطفال",
+        "w": 42.703125,
+        "x": 1195.546875
+      },
+      {
+        "h": 24,
+        "text": "راحة وعناية",
+        "w": 72.703125,
+        "x": 1086.84375
+      },
+      {
+        "h": 24,
+        "text": "مناشف",
+        "w": 51.09375,
+        "x": 999.75
+      }
+    ],
+    "navContainer": "<div style=\"min-width: 100%; display: table;\"><nav aria-label=\"Categories\" class=\"flex w-max gap-1 pr-2 pb-0 pl-6\"><div class=\"relative overflow-hidden justify-center gap-2 whitespace-nowrap font-medium ease-in-out disabled:pointer-events-none disabled:opacity-50 outline-none [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&quot;size-&quot;])]:size-4 [&amp;_svg]:shrink-0 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive text-card-foreground hover:bg-card cursor-pointer duration-100 hover:text-primary mx-2 flex !w-auto shrink-0 items-center rounded-none rounded-t-md bg-transparent px-2 py-2 text-base shadow-none transition-colors hover:shadow-none flex w-",
+    "url": "https://kotanfiber.store/",
+    "viewport": [
+      1440,
+      900
+    ]
+  }
+]

@@ -1,37 +1,23 @@
 {
-  "report_id": "kotan-fiber-growth-report",
-  "checked_on": "2026-10-19",
-  "status": "passed_with_explicit_scope_limits",
-  "counts": {"findings": 15, "first_priority": 7, "screenshots": 29, "evidence_records": 45, "tasks": 10, "journey_steps": 8},
-  "static": [
-    "Canonical data and generated HTML associations passed the website-audit-report validator: 44 internal anchor references.",
-    "Both JavaScript files passed Node syntax checks.",
-    "Referenced screenshots are actual inspected JPEG captures; generated asset dimensions come from Pillow.",
-    "Google screenshots were captured again with browser screenshot clipping to exclude account identity.",
-    "Public report text scan found only field names client_phone/second_client_phone, no values, credentials or private account identifiers."
+  "version": "1.1",
+  "date": "2026-10-19",
+  "status": "passed_with_scope_limits",
+  "counts": {"findings":17,"first_priority":9,"screenshots":38,"tasks":12,"evidence":57},
+  "store_checks": [
+    "Homepage and navigation inspected at 360, 390, 430, 768, 1024 and 1440 CSS px; screenshots saved and visually inspected.",
+    "390 px: menu opened, Escape left it open, towels link reached category 85142.",
+    "768 px: category menu opened and robes link reached category 83827; 14 product links loaded.",
+    "1440 px: category menu opened; all five category links visible.",
+    "360 px towels link x=-55.31 and width45.98; 390 px x=-25.31. The category strip supports horizontal scrolling.",
+    "CSS colors sampled; dark green/white contrast15.92:1 and half-alpha red/white contrast2.56:1 computed approximately from CSS color values."
   ],
-  "browser": [
-    "Desktop report inspected at 1440x900 and mobile at 390x844; no document horizontal overflow observed.",
-    "First-priority filter displayed 7 records; search for Kurdish with that filter displayed 0 and an empty-state message; removing the filter displayed F07 only.",
-    "Finding search was cleared and all 15 findings remained available.",
-    "Evidence zoom opened the expected sizing screenshot, loaded it successfully, and closed on desktop and mobile.",
-    "T01 checkbox persisted across reload, then was unchecked to leave the deliverable clean.",
-    "Audit/data view toggled in both directions; data view showed unavailable sources rather than zero-filled metrics on desktop and mobile.",
-    "Mobile index and global report search worked; clicking the F02 result closed the menu and opened the visible finding.",
-    "SEO keyword table took keyboard focus and scrolled horizontally: 333px client width, 640px scroll width, negative scrollLeft observed.",
-    "SEO developer details expanded successfully.",
-    "Superseded blurred desktop home capture was excluded; the inspected complete original desktop capture is used instead."
+  "report_checks": [
+    "Static validator passed17 findings,12 tasks,57 evidence records and52 anchors.",
+    "Desktop1440 and mobile390 layouts inspected with no document horizontal overflow; breakpoint cards stack to one column at390.",
+    "New UX section reachable from desktop navigation and mobile index.",
+    "New E30 evidence dialog opened and the expected local screenshot loaded; dialog closed.",
+    "Finding search matched F05,F08,F16 for navigation query; first-priority filter displayed9 findings; all filters cleared."
   ],
-  "business_evidence": {
-    "performance": "One PageSpeed run per device on homepage: mobile 37, desktop 34; lab values only, no CrUX field data shown.",
-    "search": "Four dated Google queries with Arabic language, Iraq country parameter and pws=0; logged-in session and unverified network location remain limitations.",
-    "cart": "One S-size 4-piece robe set was added, observed in cart and removed; empty-cart state verified. No order submitted.",
-    "shipping": "Baghdad selection showed 5000 IQD delivery, 80000 IQD products and 85000 IQD total. No customer contact or address data entered."
-  },
-  "not_tested": [
-    "Print dialog and printed/PDF layout were not interactively tested; print styles are present.",
-    "No actual mobile hardware, screen reader, order submission, fulfillment, payment capture or full catalogue crawl.",
-    "No historical GA4, Search Console, order or advertising metrics for this store.",
-    "No public or private hosted deployment was created or verified."
-  ]
+  "screenshots":["qa/ux-report-desktop.jpg","qa/ux-report-mobile.jpg"],
+  "limits":["Viewport emulation rather than physical devices.","No actual customer usability study or conversion experiment.","No full accessibility audit; contrast results apply to sampled states.","Earlier SEO and performance evidence remains dated to its initial capture; it was not rerun in the UX follow-up."]
 }

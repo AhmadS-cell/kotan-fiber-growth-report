@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-19T13:51:02.161Z",
+  "store": "https://kotanfiber.store/",
+  "viewports": [
+    360,
+    390,
+    430,
+    768,
+    1024,
+    1440
+  ],
+  "mobile390": {
+    "menuOpened": true,
+    "escapeClosed": false,
+    "towelLinkNavigated": true,
+    "towelLinkInitialX": -25.3125,
+    "towelLinkWidth": 45.984375,
+    "menuButtonSize": [
+      40,
+      40
+    ],
+    "cartButtonSize": [
+      40,
+      40
+    ],
+    "gapBetweenMenuAndCart": 2,
+    "expandedAttribute": null
+  },
+  "mobile360": {
+    "towelLinkInitialX": -55.3125,
+    "towelLinkWidth": 45.984375,
+    "navViewportWidth": 344,
+    "navScrollWidth": 432
+  },
+  "tablet768": {
+    "categoryMenuOpened": true,
+    "robesLinkNavigated": true,
+    "url": "https://kotanfiber.store/search?category=83827"
+  },
+  "desktop1440": {
+    "categoryMenuOpened": true,
+    "allFiveCategoryLinksVisible": true
+  },
+  "limits": [
+    "Browser viewport emulation, not physical devices",
+    "No user conversion experiment",
+    "No full screen reader audit"
+  ]
+}
