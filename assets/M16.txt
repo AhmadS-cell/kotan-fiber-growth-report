@@ -1,0 +1,106 @@
+Layout shift culprits" [active]:
+      - generic: Layout shift culprits
+    - text: Layout shifts occur when elements move absent any user interaction.
+    - link "Investigate the causes of layout shifts":
+      - /url: https://developer.chrome.com/docs/performance/insights/cls-culprit?utm_source=lighthouse&utm_medium=lr
+    - text: ", such as elements being added, removed, or their fonts changing as the page loads."
+    - generic "Relevant to Cumulative Layout Shift": CLS
+    - generic "This audit does not contribute to the overall category score.": Unscored
+    - table:
+      - rowgroup:
+        - row "Element Layout shift score":
+          - columnheader "Element":
+            - generic: Element
+          - columnheader "Layout shift score":
+            - generic: Layout shift score
+      - rowgroup:
+        - row "Total 0.830":
+          - cell "Total":
+            - generic: Total
+          - cell "0.830":
+            - generic: "0.830"
+        - row "سيتات عرض الكل سيت روب 3 قطع - وردي سادة سيتات 75,000 د.ع 65,000 د.ع سيت روب 3 … <main class=\"w-screen max-w-screen flex-1 overflow-x-hidden\"> 0.830":
+          - cell "سيتات عرض الكل سيت روب 3 قطع - وردي سادة سيتات 75,000 د.ع 65,000 د.ع سيت روب 3 … <main class=\"w-screen max-w-screen flex-1 overflow-x-hidden\">":
+            - generic "body.overflow-x-hidden > div.flex > main.w-screen":
+              - generic: سيتات عرض الكل سيت روب 3 قطع - وردي سادة سيتات 75,000 د.ع 65,000 د.ع سيت روب 3 …
+              - generic: <main class="w-screen max-w-screen flex-1 overflow-x-hidden">
+          - cell "0.830":
+            - generic: "0.830"
+        - row "كوردي <button data-slot=\"button\" class=\"relative overflow-hidden inline-flex items-center justify-center gap-2 whi…\" aria-busy=\"false\" type=\"button\"> 0.000":
+          - cell "كوردي <button data-slot=\"button\" class=\"relative overflow-hidden inline-flex items-center justify-center gap-2 whi…\" aria-busy=\"false\" type=\"button\">":
+            - generic "div.flex-1 > div.mt-4 > div.flex > button.relative":
+              - generic: كوردي
+              - generic: <button data-slot="button" class="relative overflow-hidden inline-flex items-center justify-center gap-2 whi…" aria-busy="false" type="button">
+          - cell "0.000":
+            - generic: "0.000"
+        - row "…v12/Iurf6YBj_….woff2(fonts.gstatic.com) Web font":
+          - cell "…v12/Iurf6YBj_….woff2(fonts.gstatic.com)":
+            - generic "https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l4qkHrFpiZtK6Gw.woff2":
+              - link "…v12/Iurf6YBj_….woff2":
+                - /url: https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l4qkHrFpiZtK6Gw.woff2
+              - text: (fonts.gstatic.com)
+          - cell "Web font":
+            - generic: Web font
+        - row "…v12/Iura6YBj_….woff2(fonts.gstatic.com) Web font":
+          - cell "…v12/Iura6YBj_….woff2(fonts.gstatic.com)":
+            - generic "https://fonts.gstatic.com/s/tajawal/v12/Iura6YBj_oCad4k1nzSBC5xLhLFw4Q.woff2":
+              - link "…v12/Iura6YBj_….woff2":
+                - /url: https://fonts.gstatic.com/s/tajawal/v12/Iura6YBj_oCad4k1nzSBC5xLhLFw4Q.woff2
+              - text: (fonts.gstatic.com)
+          - cell "Web font":
+            - generic: Web font
+        - row "…v12/Iurf6YBj_….woff2(fonts.gstatic.com) Web font":
+          - cell "…v12/Iurf6YBj_….woff2(fonts.gstatic.com)":
+            - generic "https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l8KiHrRpiZtK6GwN9w.woff2":
+              - link "…v12/Iurf6YBj_….woff2":
+                - /url: https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l8KiHrRpiZtK6GwN9w.woff2
+              - text: (fonts.gstatic.com)
+          - cell "Web font":
+            - generic: Web font
+        - row "…v12/Iura6YBj_….woff2(fonts.gstatic.com) Web font":
+          - cell "…v12/Iura6YBj_….woff2(fonts.gstatic.com)":
+            - generic "https://fonts.gstatic.com/s/tajawal/v12/Iura6YBj_oCad4k1nzGBC5xLhLE.woff2":
+              - link "…v12/Iura6YBj_….woff2":
+                - /url: https://fonts.gstatic.com/s/tajawal/v12/Iura6YBj_oCad4k1nzGBC5xLhLE.woff2
+              - text: (fonts.gstatic.com)
+          - cell "Web font":
+            - generic: Web font
+    - generic "Network dependency tree":
+      - generic: Network dependency tree
+    - generic "Use efficient cache lifetimes —Est savings of 493 KiB":
+      - generic: Use efficient cache lifetimes
+      - text: —Est savings of 493 KiB
+    - generic "LCP breakdown":
+      - generic: LCP breakdown
+    - generic "3rd parties":
+      - generic: 3rd parties
+    - text: These insights are also available in the Chrome DevTools Performance Panel -
+    - link "record a trace":
+      - /url: https://developer.chrome.com/docs/devtools/performance/reference?utm_source=lighthouse&utm_medium=lr
+    - text: to view more detailed information.
+    - generic: Diagnostics
+    - generic "Reduce JavaScript execution time —1.5 s":
+      - generic: Reduce JavaScript execution time
+      - text: —1.5 s
+    - generic "Minimize main-thread work —2.3 s":
+      - generic: Minimize main-thread work
+      - text: —2.3 s
+    - generic "Reduce unused JavaScript —Est savings of 386 KiB":
+      - generic: Reduce unused JavaScript
+      - text: —Est savings of 386 KiB
+    - generic "Avoid long main-thread tasks —7 long tasks found":
+      - generic: Avoid long main-thread tasks
+      - text: —7 long tasks found
+    - text: More information about the performance of your application. These numbers don't
+    - link "directly affect":
+      - /url: https://developer.chrome.com/docs/lighthouse/performance/performance-scoring/?utm_source=lighthouse&utm_medium=lr
+    - text: the Performance score.
+    - generic "Passed audits (15) Show":
+      - generic: Passed audits (15)
+      - generic: Show
+    - text: —
+    - heading "88 Accessibility" [level=2]:
+      - generic: "88"
+      - generic: Accessibility
+    - text: These checks highlight opportunities to
+    - link "improve the 

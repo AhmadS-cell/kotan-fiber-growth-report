@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "aria": null,
+      "autocomplete": "",
+      "labels": [],
+      "name": "client_name",
+      "tag": "INPUT",
+      "type": "text"
+    },
+    {
+      "aria": null,
+      "autocomplete": "",
+      "labels": [],
+      "name": "client_phone",
+      "tag": "INPUT",
+      "type": "tel"
+    },
+    {
+      "aria": null,
+      "autocomplete": "",
+      "labels": [],
+      "name": "second_client_phone",
+      "tag": "INPUT",
+      "type": "tel"
+    },
+    {
+      "aria": null,
+      "autocomplete": "",
+      "labels": [],
+      "name": "",
+      "tag": "BUTTON",
+      "type": "button"
+    },
+    {
+      "aria": null,
+      "autocomplete": "",
+      "labels": [],
+      "name": "",
+      "tag": "BUTTON",
+      "type": "button"
+    },
+    {
+      "aria": null,
+      "autocomplete": "",
+      "labels": [],
+      "name": "client_address",
+      "tag": "INPUT",
+      "type": "text"
+    },
+    {
+      "aria": null,
+      "autocomplete": "",
+      "labels": [
+        "الملاحظات (اختياري)"
+      ],
+      "name": "client_note",
+      "tag": "TEXTAREA",
+      "type": "textarea"
+    },
+    {
+      "aria": null,
+      "autocomplete": "",
+      "labels": [],
+      "name": "",
+      "tag": "INPUT",
+      "type": "checkbox"
+    },
+    {
+      "aria": null,
+      "autocomplete": "",
+      "labels": [],
+      "name": "",
+      "tag": "INPUT",
+      "type": "radio"
+    },
+    {
+      "aria": null,
+      "autocomplete": "",
+      "labels": [],
+      "name": "payment_method_id",
+      "tag": "INPUT",
+      "type": "hidden"
+    }
+  ],
+  "tables": [
+    {
+      "overflow": "auto",
+      "parentWidth": 358,
+      "scrollWidth": 500,
+      "width": 499.765625
+    }
+  ],
+  "text": "الرئيسية\nحقيبة التسوق\nإتمام الشراء\nإتمام الطلب\nالاسم الكامل\nرقم الهاتف\n+964\nرقم الهاتف الاحتياطي (اختياري)\n+964\nالمحافظة\nبغداد\nالمنطقة\nالعنوان\nالملاحظات (اختياري)\nملخص الطلب\nUpdating prices...\nالمنتج\tالكمية\tالسعر\tالتكلفة\tخصم الكوبون\tبعد الخصم\n\nسيت روب انيق 4 قطع - وردي جديد\nقياس الروب النسائي:\nS | من 40 الى 70 كيلو | لحد طول 160 سم\n\t1\t80,000 د.ع\t80,000 د.ع\t\t80,000 د.ع\nاجمالي المنتجات\nخصم الكوبون\nسعر التوصيل إلى بغداد\nالتكلفة النهائية\nإضافة كوبون خصم\nطريقة الدفع\n\nالدفع عند الاستلام\n\nإتمام الشراء",
+  "url": "https://kotanfiber.store/cart/checkout"
+}
